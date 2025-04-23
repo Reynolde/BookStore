@@ -56,7 +56,7 @@
             <div class="row">
                 <div class="col-xl-3 col-lg-2">
                     <div class="header__logo">
-                        <a href="index.php"><img style="max-height: 100px;" src="public/img/logoEfood.jpg" alt=""></a>
+                        <a href="index.php"><img style="max-height: 100px;" src="public/img/Logo.png" alt=""></a>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-7 mt-4">

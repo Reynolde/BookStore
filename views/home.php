@@ -14,11 +14,11 @@ $product_order_by = $ProductModel->select_products_order_by(3, 'ASC');
             <div id="header-carousel" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner" style="border-radius: 10px;">
                     <div class="carousel-item active" style="width:841px; height: 321px;">
-                        <img class="img-fluid" src="public/img/banner/banner01_efood.jpg" alt="Image">
+                        <img class="img-fluid" src="public/img/banner/banner1.webp" alt="Image">
 
                     </div>
                     <div class="carousel-item" style="width:841px; height: 321px;">
-                        <img class="img-fluid" src="public/img/banner/banner02_efood.jpg" alt="Image">
+                        <img class="img-fluid" src="public/img/banner/muasamkhongtienmatT425_392x156.webp" alt="Image">
 
                     </div>
                     <div class="carousel-item" style="width:841px; height: 321px;">
@@ -41,11 +41,11 @@ $product_order_by = $ProductModel->select_products_order_by(3, 'ASC');
         </div>
         <div class="col-lg-4">
             <div class="product-offer">
-                <img class="img-fluid" src="public/img/banner/banner01_efood.jpg" alt="">
+                <img class="img-fluid" src="public/img/banner/UuDaiQuaTang_840x320.webp" alt="">
 
             </div>
             <div class="product-offer">
-                <img class="img-fluid" src="public/img/banner/banner01_efood.jpg" alt="">
+                <img class="img-fluid" src="public/img/banner/Freeshipthu4_310x210.webp" alt="">
 
             </div>
         </div>
@@ -58,7 +58,7 @@ $product_order_by = $ProductModel->select_products_order_by(3, 'ASC');
 <section class="product spad" style="background-color: #F4F4F9;">
 
     <!-- CATER -->
-    <section class="container cate-home" style="background-color: #ffffff; border-radius: 10px;">
+    <!-- <section class="container cate-home" style="background-color: #ffffff; border-radius: 10px;">
 
         <div class="section-title pt-2" style="margin-bottom: 30px;">
             <h4>Danh mục sản phẩm</h4>
@@ -82,7 +82,7 @@ $product_order_by = $ProductModel->select_products_order_by(3, 'ASC');
 
 
         </div>
-    </section>
+    </section> -->
     <!-- CATE END-->
 
 
@@ -167,29 +167,29 @@ $product_order_by = $ProductModel->select_products_order_by(3, 'ASC');
 </section>
 
 <!-- Banner Section Begin -->
-<section class="banner set-bg" data-setbg="public/img/banner/banner05.png">
+<section class="banner set-bg" data-setbg="public/img/banner/bannner011.png">
     <div class="container">
         <div class="row">
             <div class="col-xl-7 col-lg-8 m-auto">
                 <div class="banner__slider owl-carousel">
                     <div class="banner__item">
                         <div class="banner__text">
-                            <span>Món ăn bán chạy</span>
-                            <h1 style="color: aqua;">Cơm cháy</h1>
+                            <span>Top Bán chạy</span>
+                            <h1 style="color: aqua;">Atack of titan</h1>
                             <a href="cua-hang">Mua ngay</a>
                         </div>
                     </div>
                     <div class="banner__item">
                         <div class="banner__text">
-                            <span>Món ăn bán chạy</span>
-                            <h1 style="color: aqua;">Khô gà</h1>
+                            <span>Top Bán chạy</span>
+                            <h1 style="color: aqua;">Hồ Sơ Mật - The Top Secret</h1>
                             <a href="cua-hang">Mua ngay</a>
                         </div>
                     </div>
                     <div class="banner__item">
                         <div class="banner__text">
-                            <span>Món ăn bán chạy</span>
-                            <h1 style="color: aqua;">Hạt dẻ cười</h1>
+                            <span>Top Bán chạy</span>
+                            <h1 style="color: aqua;">Thiên Hà Cạnh Bên</h1>
                             <a href="cua-hang">Mua ngay</a>
                         </div>
                     </div>
@@ -307,49 +307,6 @@ $product_order_by = $ProductModel->select_products_order_by(3, 'ASC');
     </div>
 </section>
 <!-- Trend Section End -->
-
-<!-- Discount Section Begin -->
-<section class="discount">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6" width="500px">
-                <div class="discount__pic">
-                    <img src="public/img/bannerBlackFriday.png" alt="Hình ảnh">
-                </div>
-            </div>
-            <div class="col-lg-6 p-0">
-                <div class="discount__text">
-                    <div class="discount__text__title">
-                        <span>Khuyến mãi</span>
-                        <h2>Black Friday</h2>
-                        <h5><span>Sale</span> 50%</h5>
-                    </div>
-                    <div class="discount__countdown" id="countdown-time">
-                        <div class="countdown__item">
-                            <span>22</span>
-                            <p>Ngày</p>
-                        </div>
-                        <div class="countdown__item">
-                            <span>18</span>
-                            <p>Giờ</p>
-                        </div>
-                        <div class="countdown__item">
-                            <span>46</span>
-                            <p>Phút</p>
-                        </div>
-                        <div class="countdown__item">
-                            <span>05</span>
-                            <p>Giây</p>
-                        </div>
-                    </div>
-                    <a href="#">Mua ngay</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Discount Section End -->
-
 <!-- Services Section Begin -->
 <section class="services spad">
     <div class="container">
