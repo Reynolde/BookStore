@@ -7,9 +7,9 @@
             <div class="col-lg-4 col-md-6 col-sm-7">
                 <div class="footer__about">
                     <div class="footer__logo">
-                        <a  href="./index.html"><img height="100px"  src="public/img/logoEfood.jpg" alt=""></a>
+                        <a  href="./index.html"><img height="100px"  src="public/img/logoBookStore.jpg" alt=""></a>
                     </div>
-                    <p>Chào mừng bạn đến với EFood nơi cung cấp những món ăn vặt chất lượng</p>
+                    <p>Chào mừng bạn đến với BookStore nơi cung cấp những món ăn vặt chất lượng</p>
                     
                 </div>
             </div>

@@ -1,9 +1,11 @@
 <?php
+
 /**
  * Mở kết nối đến CSDL sử dụng PDO
  */
-function pdo_get_connection(){
-    $dburl = "mysql:host=localhost;dbname=duan1_efood;charset=utf8";
+function pdo_get_connection()
+{
+    $dburl = "mysql:host=localhost;dbname=qlda;charset=utf8";
     $username = 'root';
     $password = '';
 
@@ -11,4 +13,3 @@ function pdo_get_connection(){
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     return $conn;
 }
-
